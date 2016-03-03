@@ -1,13 +1,16 @@
-# TunnelCMS
+# Tunnel CMS
 Are you lokking for fast php framework for your next works?
 are you want to write a good cms?
+are you want a cms Core to extended yourself?
 
-Tunnel CMS is a PHP CMSs framewok to write your cms, this cms don't have a admin or user interface but have all things thar a cms need.
+Tunnel CMS is a PHP CMS Core for write your CMS!, this cms don't have a admin or user interface but have all things that a cms need.
 What we have?
+
+# The feature tools is:
 
 You can Have Multiple Page With Multi Theme.
 
-You can write any module and run them anywhere thar you need.
+You can write any module and run them anywhere that you need.
 
 You can load any action of module anywhere you need.
 
