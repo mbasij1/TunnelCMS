@@ -1,5 +1,5 @@
 # Tunnel CMS
-Are you lokking for fast php framework for your next works?
+Are you looking for fast php framework for your next works?
 are you want to write a good cms?
 are you want a cms Core to extended yourself?
 
