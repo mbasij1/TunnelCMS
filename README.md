@@ -6,7 +6,7 @@ are you want a cms Core to extended yourself?
 Tunnel CMS is a PHP CMS Core for write your CMS!, this cms don't have a admin or user interface but have all things that a cms need.
 What we have?
 
-# The feature tools is:
+# Features:
 
 You can Have Multiple Page With Multi Theme.
 
